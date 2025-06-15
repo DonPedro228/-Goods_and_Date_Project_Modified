@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Student\\OOP_18\\laboratory_1.8_V18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C42DDA8C-7492-4374-8C6F-487203E582C8}|laboratory_1.8_V18.vcxproj|D:\\Student\\OOP_18\\laboratory_1.8_V18\\GoodsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C42DDA8C-7492-4374-8C6F-487203E582C8}|laboratory_1.8_V18.vcxproj|solutionrelative:GoodsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42DDA8C-7492-4374-8C6F-487203E582C8}|laboratory_1.8_V18.vcxproj|D:\\Student\\OOP_18\\laboratory_1.8_V18\\GoodsDate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C42DDA8C-7492-4374-8C6F-487203E582C8}|laboratory_1.8_V18.vcxproj|solutionrelative:GoodsDate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C067003-4A43-E45E-62C1-666944F20760}|..\\Unit_V18_1.8\\Unit_V18_1.8.vcxproj|D:\\Student\\OOP_18\\Unit_V18_1.8\\Unit_V18_1.8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42DDA8C-7492-4374-8C6F-487203E582C8}|laboratory_1.8_V18.vcxproj|D:\\Student\\OOP_18\\laboratory_1.8_V18\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C42DDA8C-7492-4374-8C6F-487203E582C8}|laboratory_1.8_V18.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Unit_V18_1.8.cpp",
+              "DocumentMoniker": "D:\\Student\\OOP_18\\Unit_V18_1.8\\Unit_V18_1.8.cpp",
+              "RelativeDocumentMoniker": "..\\Unit_V18_1.8\\Unit_V18_1.8.cpp",
+              "ToolTip": "D:\\Student\\OOP_18\\Unit_V18_1.8\\Unit_V18_1.8.cpp",
+              "RelativeToolTip": "..\\Unit_V18_1.8\\Unit_V18_1.8.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-14T22:44:38.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GoodsDate.cpp",
+              "DocumentMoniker": "D:\\Student\\OOP_18\\laboratory_1.8_V18\\GoodsDate.cpp",
+              "RelativeDocumentMoniker": "GoodsDate.cpp",
+              "ToolTip": "D:\\Student\\OOP_18\\laboratory_1.8_V18\\GoodsDate.cpp",
+              "RelativeToolTip": "GoodsDate.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-14T21:28:11.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoodsDate.h",
+              "DocumentMoniker": "D:\\Student\\OOP_18\\laboratory_1.8_V18\\GoodsDate.h",
+              "RelativeDocumentMoniker": "GoodsDate.h",
+              "ToolTip": "D:\\Student\\OOP_18\\laboratory_1.8_V18\\GoodsDate.h",
+              "RelativeToolTip": "GoodsDate.h",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-14T21:20:36.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Student\\OOP_18\\laboratory_1.8_V18\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Student\\OOP_18\\laboratory_1.8_V18\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T21:34:13.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+﻿  GoodsDate.cpp
+D:\Student\OOP_18\laboratory_1.8_V18\GoodsDate.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+D:\Student\OOP_18\laboratory_1.8_V18\GoodsDate.cpp(60,20): warning C4018: '<': signed/unsigned mismatch
+D:\Student\OOP_18\laboratory_1.8_V18\GoodsDate.cpp(83,12): warning C4018: '<=': signed/unsigned mismatch
+D:\Student\OOP_18\laboratory_1.8_V18\GoodsDate.cpp(102,12): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+D:\Student\OOP_18\laboratory_1.8_V18\main.cpp(61,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  laboratory_1.8_V18.vcxproj -> D:\Student\OOP_18\laboratory_1.8_V18\x64\Debug\laboratory_1.8_V18.exe
